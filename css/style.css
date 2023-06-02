@@ -134,6 +134,13 @@ footer{
 		display: flex;
 		justify-content: center;
 		align-items: center;
+		gap: 10px;
+		color: navy;
+	}
+
+	.headerleft2 button{
+		background-color: navy;
+		color: white;
 	}
 
 	main{
@@ -170,6 +177,6 @@ footer{
 		grid-column: span 1;
 		grid-row: span 2;
 	}
-	
+
 
 }
